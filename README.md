@@ -1,2 +1,2 @@
 # node-repo-test
-test repository
+This is for the tutorial
